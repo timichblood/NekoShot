@@ -1,0 +1,53 @@
+{
+  "anime": [
+    {
+      "name": "Naruto",
+      "price": 1800,
+      "photo": "https://funkopoprussia.com/image/data/Serials/Naruto/FU6366lg.jpg",
+      "type": "figurines",
+      "id": 1
+    },
+    {
+      "name": "One punch man",
+      "price": 1800,
+      "photo": "https://images.prom.ua/2118748402_w640_h640_figurka-funko-pop.jpg",
+      "type": "figurines",
+      "id": 2
+    },
+    {
+      "name": "Swort art online",
+      "price": 1800,
+      "photo": "https://m.media-amazon.com/images/I/51o3Em2ZqHL.jpg",
+      "type": "figurines",
+      "id": 3
+    },
+    {
+      "name": "Tshirt",
+      "price": 2500,
+      "photo": "https://static.zara.net/photos///2022/I/0/3/p/6224/715/250/2/w/1920/6224715250_6_1_1.jpg?ts=1654007887608",
+      "type": "clouse",
+      "id": 4
+    },
+    {
+      "name": "Tshirt",
+      "price": 2500,
+      "photo": "https://cdn.media.amplience.net/s/hottopic/19471929_hi?$productTileDesktop$",
+      "type": "clouse",
+      "id": 5
+    },
+    {
+      "name": "Tshirt",
+      "price": 2500,
+      "photo": "https://cdn.media.amplience.net/s/hottopic/18862286_hi?$productTileDesktop$",
+      "type": "clouse",
+      "id": 6
+    },
+    {
+      "name": "Kakashi",
+      "price": 1800,
+      "photo": "https://www.dhresource.com/0x0/f2/albu/g7/M00/82/99/rBVaSltOl1qAWkCDAAEhKUntHSs024.jpg",
+      "type": "figurines",
+      "id": 7
+    }
+  ]
+}
